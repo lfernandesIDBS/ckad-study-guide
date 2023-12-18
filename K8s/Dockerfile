@@ -1,3 +1,3 @@
 FROM ubuntu:18.04
-RUN echo 'Hello, World!' > /test.txt
+RUN echo 'Hello, World!'
 
